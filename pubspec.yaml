@@ -10,7 +10,8 @@ dependencies:
   flutter:
     sdk: flutter
 
-  cupertino_icons: ^0.1.2
+  cupertino_icons: ^0.1.2 #allows use of ios icons
+  audioplayers: ^0.15.1 #package we import to play audio
 
 dev_dependencies:
   flutter_test:
